@@ -18,7 +18,7 @@ body {
 
 /* Header with banner background */
 header {
-  background: var(--primary) url('banner_compressed.jpg') no-repeat center/cover;
+  background: var(--primary) url('banner_compressed.png') no-repeat center/cover;
   color: white;
   padding: 40px 0;
   text-align: center;
